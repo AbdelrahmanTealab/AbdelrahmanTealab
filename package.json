@@ -1,0 +1,30 @@
+{
+  "name": "abdelrahman-tealab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "abdelrahman-tealab",
+  "author": "Abdelrahman Tealab",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "gatsby": "^4.14.1",
+    "gatsby-plugin-emotion": "^7.14.0",
+    "gatsby-plugin-image": "^2.14.1",
+    "gatsby-plugin-sharp": "^4.14.1",
+    "gatsby-plugin-sitemap": "^5.14.0",
+    "gatsby-source-filesystem": "^4.14.0",
+    "gatsby-transformer-sharp": "^4.14.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
