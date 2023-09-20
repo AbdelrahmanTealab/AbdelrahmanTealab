@@ -6,6 +6,7 @@
 -     Python
 -     Firebase
 -     C# .NET
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanTealab"/>
 - 📫 How to reach me ...
 -     a.tealab@icloud.com
 
