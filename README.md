@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AbdelrahmanTealab
 - 👀 I’m interested in ...
--     iOS Development
+-     React-Native
+-     Flutter
 -     Swift 
 -     Python
--     React-Native
--     Data Engineering
--     Analytics
+-     Firebase
+-     C# .NET
 - 📫 How to reach me ...
 -     a.tealab@icloud.com
 
