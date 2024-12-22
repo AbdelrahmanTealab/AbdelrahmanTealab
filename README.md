@@ -6,6 +6,7 @@
 -     Python
 -     Firebase
 -     C# .NET
+-     HTML, CSS, JS, PHP
   [//]: <> (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanTealab"/>)
   [//]: <> (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
 - 📫 How to reach me ...
